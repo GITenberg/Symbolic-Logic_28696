@@ -1,0 +1,29 @@
+_repo: Symbolic-Logic_28696
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: Pt. 1. Elementary
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2009-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Logic, Symbolic and mathematical'
+- !lcc 'BC'
+title: Symbolic Logic
+url: http://www.gutenberg.org/ebooks/28696
